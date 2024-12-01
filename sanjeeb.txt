@@ -1,2 +1,3 @@
 This is my First git repo with Sanjeeb
-Use i for inert any message and press :q command to quit
+Use i for inert any message and press :wq command to quit
+Adding a new line
