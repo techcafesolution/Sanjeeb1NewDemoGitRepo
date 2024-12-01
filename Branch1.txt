@@ -1,1 +1,2 @@
  I have updated a line in branch1.txt in DemoRebase branch
+ Adding a new line for Branch1.txt in master to check how merger is worked
